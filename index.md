@@ -38,7 +38,7 @@ title: Welcome to my portfolio!
   <ul>
   <li>Contains welcome screen, downloadable resume, & quick about me</li>
   </ul>
-<li><a href="">Skills</a></li>
+<li><a href="Skills.md">Skills</a></li>
   <ul>
   <li>Contains known languages, programs, & any other important skills</li>
   </ul>
