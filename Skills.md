@@ -1,6 +1,5 @@
----
 title: Skills
----
+
 <hr>
 <h2>My skill!</h2>
 <hr>
